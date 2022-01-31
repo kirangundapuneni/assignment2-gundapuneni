@@ -14,6 +14,16 @@ Navigation to the Restaurant
 3. Travel along Masjid-e-Abubaker and towards right we can see the restaurant.
 4. The destination is on the left side.
 
+Food Menu Available
+
+* STARTERS
+    * Chucken Nuggets
+    - Chicken Wings
+    * Chicken Tikka
+* Biryani
+    * Faham Chicken Mandi
+    * B.B.Q Chicken Mandi
+    * Mutton Mandi
 
 
 
